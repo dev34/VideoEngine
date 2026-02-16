@@ -19,3 +19,7 @@
 - ``videoengine.play.others`` - Play a video for yourself or other players
 
 - ``videoengine.stop.others`` - Stop a video for yourself or other players
+
+
+## Example
+![til](./plugin-examples/videoengine-example.gif)
