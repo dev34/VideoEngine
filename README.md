@@ -21,5 +21,5 @@
 - ``videoengine.stop.others`` - Stop a video for yourself or other players
 
 
-## Example
+<h3>Example</h3>
 ![til](./plugin-examples/videoengine-example.gif)
